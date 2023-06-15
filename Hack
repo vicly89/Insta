@@ -1,0 +1,9 @@
+root ---must !
+
+git cloneÂ https://github.com/Ignitetch/whatsapp-phishing.git
+
+cd whatsapp-phishing
+
+chmod 777 Whatsapp.sh
+
+./Whatsapp.sh
