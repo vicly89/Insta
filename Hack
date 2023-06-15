@@ -1,9 +1,7 @@
-root ---must !
+apt-get install tor
 
-git cloneÂ https://github.com/Ignitetch/whatsapp-phishing.git
+git clone:https://github.com/iamwithyou11/Bruteinsta
 
-cd whatsapp-phishing
+tor (run this tor service in another terminal)
 
-chmod 777 Whatsapp.sh
-
-./Whatsapp.sh
+chmod +x insta.sh
